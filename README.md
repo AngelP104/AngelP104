@@ -1,5 +1,5 @@
 ## ¡Hola, soy Ángel! 👋
-Soy Ángel Pardo Vidal, un estudiante apasionado y en formación, con experiencia en tecnologías modernas del desarrollo web. Me caracterizo por ser una persona proactiva, con ganas de aprender y resolver problemas.
+Soy un desarrollador web apasionado, con experiencia en tecnologías modernas del desarrollo web. Me caracterizo por ser una persona proactiva, con ganas de aprender y resolver problemas.
 
 
 # 💻 Tech Stack:
