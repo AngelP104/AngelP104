@@ -6,7 +6,7 @@ Soy un desarrollador web apasionado, con experiencia en tecnologías modernas de
 
 
 
-# 📊 GitHub Stats:
+# 📊 Mis stats de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=AngelP104&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AngelP104&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelP104&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
